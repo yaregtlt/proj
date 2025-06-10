@@ -5,6 +5,11 @@ public class MainApplication {
         System.out.println("Hello world");
         System.out.println("Hello world!");
         System.out.println("Hello world!!");
-        System.out.println("Hello world!!!");
+        System.out.println("qwerty");
+    }
+
+    public static void doSomething() {
+        System.out.println("Chacha");
+        System.out.println("Chacha-tata");
     }
 }
